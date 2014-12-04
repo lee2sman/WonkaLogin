@@ -1,43 +1,20 @@
-ZeldaLogin
+WonkaLogin
 ==========
 
-Play Zelda's secret door sound when you open a new Terminal window
+Play Willy Wonka's mysterious flute melody when you open a new Terminal window
+
+Note: This is a blatant copy of the methods written by Quinn Keaveney for [ZeldaLogin](https://github.com/qkeave/ZeldaLogin).
 
 Just place the mp3 in your home/user directory and add the .bash_profile.
-Incase you already have stuff in your .bash_profile, just add 
+In case you already have stuff in your .bash_profile, just add 
 ```
-Afplay zelda-secret.mp3
+Afplay Wonka-flute.mp3
 ```
 
 If you want to hide the mp3... which you probably do... just copy this into your "secret" terminal
 ```
 cd
-chgflags hidden zelda-secret.mp3
+chgflags hidden Wonka-flute.mp3
 ```
 
-This is the soundBite
-http://quinnkeaveney.com/files/zelda-secret.mp3
-```
-                          .--¯¯¯¯--.
-                      .''          '.
-                     /  _--_   _--_  \
-                    / .'####\ /####'. \
-                   | /###############\ \
-              ¯''..||####--#####--####|..''¯
-                '._\|##/_'. \#/ .'_ \#|_.'
-                    |#\ ' ¯.   .¯ ' /#|  |
-                     \|\ ¯¯  /\ ¯¯ /|/    \_
-        _               '._ /  \_.'         '.    _
-    .. | |\  /¯/         | /    \|''''..__ \¯\  /| | ..
-    \|'.\| \/¯/    ...''|-/      \|''...    \¯\/ |/.'|/
- .-.-         |          /        \         |         -.-.
- '-'-     '   |         /__________\        |   '     -'-'
-             '         /\          /\        '
-                      /  \        /  \
-                     /    \      /    \
-                    /      \    /      \
-                   /        \  /        \
-                  /__________\/__________\
-                  \__________/\__________/
-                  
-```
+I found the sound file on Beemp3
