@@ -14,7 +14,8 @@ Afplay Wonka-flute.mp3
 If you want to hide the mp3... which you probably do... just copy this into your "secret" terminal
 ```
 cd
-chgflags hidden Wonka-flute.mp3
+chflags hidden Wonka-flute.mp3
 ```
+On Linux I think it's chgflags instead.
 
 I found the sound file on Beemp3
